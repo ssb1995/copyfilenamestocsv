@@ -6,8 +6,8 @@ Command line VM args to run the app below. Replace the argument with the folder 
 
 Default output file will be in C:\data\Filenames.csv
 
-parent.folder.path="C:\"
+parent.folder.path=C:\
 
 To run the app from command line,
 
-java -jar copyfilenamestoexcel.jar -Dparent.folder.path="C:\"
+java -jar copyfilenamestoexcel.jar -Dparent.folder.path=C:\
